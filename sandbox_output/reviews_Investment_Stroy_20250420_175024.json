@@ -1,0 +1,113 @@
+{
+  "company": "Investment Stroy",
+  "reviews": [
+    {
+      "reviewer_name": "Даулет К",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 4,
+      "overall_rating": "",
+      "total_ratings": "0"
+    },
+    {
+      "reviewer_name": "Мурат Газиев",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 5
+    },
+    {
+      "reviewer_name": "Архитектор Ер",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 6
+    },
+    {
+      "reviewer_name": "Dinara Ashim",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 7
+    },
+    {
+      "reviewer_name": "Sultan Boranbaev",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 8
+    },
+    {
+      "reviewer_name": "Gulim Utegen",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 10
+    },
+    {
+      "reviewer_name": "Айдана Рустем",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 11
+    },
+    {
+      "reviewer_name": "Liza Tiktok",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 12
+    },
+    {
+      "reviewer_name": "Равиль Имамалиев",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 13
+    },
+    {
+      "reviewer_name": "Beibit Zaman",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 14
+    },
+    {
+      "reviewer_name": "Anton Vasin",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 15
+    },
+    {
+      "reviewer_name": "Ир-Нам Тен",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 16
+    },
+    {
+      "reviewer_name": "Шынгыс Онайбай",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 17
+    },
+    {
+      "reviewer_name": "Нурлан Ашимов",
+      "rating": "5 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 18
+    },
+    {
+      "reviewer_name": "Roza Zhubatyrova",
+      "rating": "3 stars",
+      "text": "[No review text found]",
+      "likes": "0",
+      "index": 19
+    }
+  ],
+  "extraction_date": "2025-04-20T17:50:24.532955"
+}
